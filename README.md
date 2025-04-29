@@ -97,7 +97,11 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ---
 
+## 👩‍💻 Author
 
+Made with ❤️ by Toohi (https://github.com/Toochiiii), Vanessa (https://github.com/dev-vanessa-git) and Demiade ()
+
+---
 
 ## 📦 Requirements
 
