@@ -28,7 +28,23 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 
 ## 📸 Screenshots
 
-(Add screenshots here: login page, dashboard, graph view, AI insights popup, etc.)
+## 📸 Screenshots
+
+### Login Page
+![Login Page](Login.png)
+
+### Registration Page
+![Registration Page](Registration.png)
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Expenses Page 
+![Expenses Page](BarChart.png)
+
+### AI Insights Page
+![AI Insights Page](AI_Insights.png)
+
 
 ---
 
