@@ -37,7 +37,7 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 ![Registration Page](Registration.png)
 
 ### Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Transactions.png)
 
 ### Expenses Page 
 ![Expenses Page](BarChart.png)
@@ -51,8 +51,9 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 ## 🧰 Installation Instructions
 
 1. Clone the repository:
-   git clone https://github.com/your-username/centsible.git
+   git clone https://github.com/dev-vanessa-git/centsible.git
    cd centsible
+
 
 2. Install dependencies:
    pip install -r requirements.txt
