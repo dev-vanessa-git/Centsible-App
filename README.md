@@ -16,36 +16,6 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 
 ---
 
-## 🛠️ Tech Stack
-
-- Python 3.x
-- CustomTkinter — for modern UI design
-- Matplotlib — for data visualization
-- SQLite3 — for local data storage
-- Built-in AI Logic — to generate simple financial insights
-
----
-
-## 📸 Screenshots
-
-### Login Page
-![Login Page](Login.png)
-
-### Registration Page
-![Registration Page](Registration.png)
-
-### Dashboard
-![Dashboard](Transactions.png)
-
-### Expenses Page 
-![Expenses Page](BarChart.png)
-
-### AI Insights Page
-![AI Insights Page](AI_Insights.png)
-
-
----
-
 ## 🧰 Installation Instructions
 
 1. Clone the repository:
@@ -73,6 +43,17 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 
 ---
 
+## 🛠️ Tech Stack
+
+- Python 3.x
+- CustomTkinter — for modern UI design
+- Matplotlib — for data visualization
+- SQLite3 — for local data storage
+- Built-in AI Logic — to generate simple financial insights
+
+---
+
+
 ## 🚧 Roadmap / Future Improvements
 
 - Export data as CSV or PDF
@@ -80,6 +61,25 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 - Password reset feature
 - Dark mode toggle
 - Advanced AI budgeting tips
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+![Login Page](Login.png)
+
+### Registration Page
+![Registration Page](Registration.png)
+
+### Dashboard
+![Dashboard](Transactions.png)
+
+### Expenses Page 
+![Expenses Page](BarChart.png)
+
+### AI Insights Page
+![AI Insights Page](AI_Insights.png)
 
 ---
 
