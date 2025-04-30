@@ -31,6 +31,15 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 
 ---
 
+## 📦 Requirements
+
+Place this in your requirements.txt file:
+
+customtkinter  
+matplotlib
+
+---
+
 ## 📌 Usage
 
 1. Launch the app using main.py.
@@ -98,13 +107,3 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## 👩‍💻 Author
 
 Made with ❤️ by Toohi (https://github.com/Toochiiii), Vanessa (https://github.com/dev-vanessa-git) and Demiade ()
-
----
-
-## 📦 Requirements
-
-Place this in your requirements.txt file:
-
-customtkinter  
-matplotlib
-
